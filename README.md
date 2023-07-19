@@ -1,15 +1,20 @@
 <h1 align="center">Hi There👋, I'm Karan Panda</h1>
-<h3 align="center">I am an enthusiastic engineering student with a passion for crafting innovative software solutions. Proficient in Java, Python, and C++, I specialize in web development, data management, and cloud computing. My love for AI, ML, and UX drives me to constantly expand my knowledge in these domains. Through engaging in coding challenges and hackathons, I have sharpened my problem-solving skills. I am thrilled to apply my expertise and contribute to the creation of cutting-edge technology that enhances people's lives.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpanda1206&label=Profile%20views&color=0e75b6&style=flat" alt="mrpanda1206" /> </p>
+<h3 align="center"> Fueling Innovation🚀, Engineering a Brighter Future for Humanity🌏.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrpanda1206" alt="mrpanda1206" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mrpanda1206&label=Profile%20views&color=0e75b6&style=flat" alt="mrpanda1206" />
+</p>
 
-- 🔭 I’m currently working on **Machine Learning**
+<img align="right" src="https://github.com/mrpanda1206/mrpanda1206/assets/108183567/1ede6edb-41ba-49a5-94a2-43c16a11985c" alt="codergif">
 
-- 🌱 I’m currently learning **Web Dev Frameworks and**
-
+- 🔭 I’m currently working on **Projects that leverages the power of Machine Learning**
+- 🌱 I’m currently learning: **Web Dev Frameworks and expanding my skills in React, Vue, and GSAP**
+- 🤝 I’m looking to collaborate on: **Open-source projects that push the boundaries of innovation**
+- 💬 Ask me about: **Anything that captivates your curiousity**
 - 📫 How to reach me **karanpanda1206@gmail.com**
+- ⚡ Fun fact: **When not coding, I love watching some Anime or Sci-fi movies**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

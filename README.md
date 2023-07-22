@@ -19,8 +19,8 @@
 ## 🌐Let's Connect:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanpanda/)
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](karanpanda1206@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanpanda1206@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=7715067060)
 
 ## 🖥️Coding Profile & 🎓Education:
 [![Google](https://img.shields.io/badge/-Google-00897B?style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/PFYCSN3BBJBV)
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/.NET-512BD4?style=&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-385375?style=&logo=flask&logoColor=white">
 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-1f0b42?style=&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=&logo=Adobe%20XD&logoColor=#FF61F6">

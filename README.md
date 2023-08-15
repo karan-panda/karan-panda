@@ -19,7 +19,7 @@
 
 
 ## 🌐Let's Connect:
-
+[![X](https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KaranPanda_)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanpanda/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanpanda1206@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=7715067060)

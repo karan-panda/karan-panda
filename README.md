@@ -32,6 +32,8 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/karanpanda1206/)
 [![Others](https://img.shields.io/badge/Other_courses-00897B?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.linkedin.com/in/karanpanda/details/certifications/) 
 
+[![Holopin Hacktoberfest Badges](https://holopin.me/karanpanda)](https://holopin.io/@karanpanda)
+
 ## ⚔️Languages and Tools: 
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">

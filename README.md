@@ -25,9 +25,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=7715067060)
 
 ## 🖥️Coding Profile & 🎓Education:
-[![Google](https://img.shields.io/badge/-Google_UX-0056D2?style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/PFYCSN3BBJBV)
-[![Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/24775c97-1411-4b07-9a06-f2bb1443642e)
-[![AIML](https://img.shields.io/badge/Machine_Learning-412991?style=for-the-badge&logo=openai&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/8B8SRFTV3XUB)
+[![ML](https://img.shields.io/badge/Machine_Learning-412991?style=for-the-badge&logo=openai&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/8B8SRFTV3XUB)
+[![GoogleUX](https://img.shields.io/badge/-Google_UX-0056D2?style=for-the-badge&logo=Google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/PFYCSN3BBJBV)
+[![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/24775c97-1411-4b07-9a06-f2bb1443642e)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mrpanda1206)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/karanpanda1206/)
 [![Others](https://img.shields.io/badge/Other_courses-00897B?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.linkedin.com/in/karanpanda/details/certifications/) 

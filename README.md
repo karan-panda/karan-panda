@@ -11,7 +11,7 @@
 <img align="right" src="https://github.com/karan-panda/karan-panda/assets/108183567/1ede6edb-41ba-49a5-94a2-43c16a11985c" alt="codergif">
 
 - 🔭 I’m currently working on **Projects that leverages the power of Machine Learning**
-- 🌱 I’m currently learning: **Web Dev Frameworks and expanding my skills in React, Vue, and GSAP**
+- 🌱 I’m currently exploring: **Generative AI and discovering tools like Langchain, Vector DBs, and more.**
 - 🤝 I’m looking to collaborate on: **Open-source projects that push the boundaries of innovation**
 - 💬 Ask me about: **Anything that captivates your curiousity**
 - 📫 How to reach me **karanpanda1206@gmail.com**
